@@ -1,5 +1,4 @@
 import React from 'react';
-
 const About = () => (
   <div className="content-container">
     <div className="content-title-group not-found">
