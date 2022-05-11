@@ -3,6 +3,7 @@ import HeaderBarBrand from './HeaderBarBrand';
 
 const HeaderBar = () => (
   <header>
+    YO
     <nav
       className="navbar has-background-dark is-dark"
       role="navigation"
